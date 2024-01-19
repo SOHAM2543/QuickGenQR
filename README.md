@@ -1,5 +1,6 @@
 <html>
-<head></head>
+<head>
+</head>
   QR Code Generator
 </html>
 
