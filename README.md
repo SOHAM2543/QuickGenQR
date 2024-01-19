@@ -1,1 +1,5 @@
-QR Code Generator
+<html>
+<head></head>
+  QR Code Generator
+</html>
+
