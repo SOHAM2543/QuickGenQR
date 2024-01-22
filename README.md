@@ -3,7 +3,7 @@
 </head>
 <body> 
     <h1> QR Code Generator </h1> 
-  </body>
+</body>
 
 </html>
 
